@@ -11,6 +11,8 @@ This repository helps us in predicting daily sales of a particular product in a 
  
 To forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer using time series forecasting.
 Specifically, you'll build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores. You'll practice your machine learning skills with an approachable training dataset of dates, store, and item information, promotions, and unit sales.
+
+
 ![image](https://user-images.githubusercontent.com/45202209/163094220-04a51df9-1cdc-4df8-948b-d0d9ddb08f59.png)
 
  

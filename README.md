@@ -66,8 +66,10 @@ All these datasets will help us building the ML model to capture trend, seasonal
 
 ## PyCaret
 ![image](https://user-images.githubusercontent.com/45202209/163095073-b6b2597c-28f1-4e8b-bf0a-68d1b4cf4569.png)
-- I have used a new python library "PyCaret" to forecast sales of 3 products in store number 44. 
-- This procedure can be extended to all the stores and products combination.
+
+## Method/ Flow
+- I have used a new python library "PyCaret" to forecast sales of 3 products in store number 44. This makes it 3 time series data which is a multivariate time series model.
+- This procedure can be extended to all the stores and products combination to meet the goal of the project.
 
 
 ## Resources
